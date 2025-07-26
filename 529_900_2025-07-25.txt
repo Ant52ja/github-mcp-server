@@ -1,0 +1,2 @@
+18:00:03 [ (SourceFile:50)#<init> ] constructor com.wondershare.drfoneapp.DrfoneApplication@73dbe9
+18:00:03 [ (SourceFile:36)#onPurchasesUpdated ] onPurchasesUpdated:0

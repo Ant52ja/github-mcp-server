@@ -1,0 +1,958 @@
+Fri Jul 25 18:29:00 CDT 2025 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Fri Jul 25 18:29:00 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Fri Jul 25 18:29:00 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:29:00 CDT 2025 DATA OneDSUtils PrivacyGuard is not enabled 
+Fri Jul 25 18:29:00 CDT 2025 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Fri Jul 25 18:29:00 CDT 2025 DATA RampManager getAllRampsState took 2ms 
+Fri Jul 25 18:29:01 CDT 2025 DATA z8.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt5Core.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libyuv-decoder.so in APK 
+Fri Jul 25 18:29:01 CDT 2025 W OneDriveCore Library libcrypto.so not found in APK 
+Fri Jul 25 18:29:01 CDT 2025 W OneDriveCore Library libssl.so not found in APK 
+Fri Jul 25 18:29:01 CDT 2025 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Fri Jul 25 18:29:01 CDT 2025 W OneDriveCore Library libQt5Network.so not found in APK 
+Fri Jul 25 18:29:01 CDT 2025 W OneDriveCore Library libQt5Sql.so not found in APK 
+Fri Jul 25 18:29:01 CDT 2025 W OneDriveCore Library libQt5Xml.so not found in APK 
+Fri Jul 25 18:29:01 CDT 2025 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:21) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:123) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:120) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:25) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using qt with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:21) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /data/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3972) 
+Fri Jul 25 18:29:01 CDT 2025 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  228 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4628) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:153) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 950272 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /data/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:39) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:146) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Fri Jul 25 18:29:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:491) 
+Fri Jul 25 18:29:02 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication onMAMCreate - Importance: 400 [BACKGROUND INIT] 
+Fri Jul 25 18:29:02 CDT 2025 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Fri Jul 25 18:29:02 CDT 2025 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Fri Jul 25 18:29:02 CDT 2025 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Fri Jul 25 18:29:02 CDT 2025 DATA z8.f InitOneAuthPreReqs 
+Fri Jul 25 18:33:55 CDT 2025 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Fri Jul 25 18:33:56 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Fri Jul 25 18:33:56 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:33:56 CDT 2025 DATA OneDSUtils PrivacyGuard is not enabled 
+Fri Jul 25 18:33:56 CDT 2025 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Fri Jul 25 18:33:56 CDT 2025 DATA RampManager getAllRampsState took 2ms 
+Fri Jul 25 18:33:57 CDT 2025 DATA z8.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt5Core.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libyuv-decoder.so in APK 
+Fri Jul 25 18:33:57 CDT 2025 W OneDriveCore Library libcrypto.so not found in APK 
+Fri Jul 25 18:33:57 CDT 2025 W OneDriveCore Library libssl.so not found in APK 
+Fri Jul 25 18:33:57 CDT 2025 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Fri Jul 25 18:33:57 CDT 2025 W OneDriveCore Library libQt5Network.so not found in APK 
+Fri Jul 25 18:33:57 CDT 2025 W OneDriveCore Library libQt5Sql.so not found in APK 
+Fri Jul 25 18:33:57 CDT 2025 W OneDriveCore Library libQt5Xml.so not found in APK 
+Fri Jul 25 18:33:57 CDT 2025 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Fri Jul 25 18:33:58 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:21) 
+Fri Jul 25 18:33:58 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:123) 
+Fri Jul 25 18:33:58 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:120) 
+Fri Jul 25 18:33:58 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Fri Jul 25 18:33:58 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:25) 
+Fri Jul 25 18:33:58 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using qt with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:21) 
+Fri Jul 25 18:33:58 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /data/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3972) 
+Fri Jul 25 18:33:58 CDT 2025 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Fri Jul 25 18:33:58 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  228 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4628) 
+Fri Jul 25 18:33:58 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:153) 
+Fri Jul 25 18:33:58 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 950272 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:33:58 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:33:58 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:33:58 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Fri Jul 25 18:33:58 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /data/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Fri Jul 25 18:33:59 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:39) 
+Fri Jul 25 18:33:59 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Fri Jul 25 18:33:59 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Fri Jul 25 18:33:59 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:146) 
+Fri Jul 25 18:33:59 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Fri Jul 25 18:33:59 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Fri Jul 25 18:33:59 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:491) 
+Fri Jul 25 18:33:59 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication onMAMCreate - Importance: 300 [BACKGROUND INIT] 
+Fri Jul 25 18:33:59 CDT 2025 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Fri Jul 25 18:33:59 CDT 2025 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Fri Jul 25 18:33:59 CDT 2025 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Fri Jul 25 18:33:59 CDT 2025 DATA z8.f InitOneAuthPreReqs 
+Fri Jul 25 18:34:51 CDT 2025 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Fri Jul 25 18:34:51 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDSUtils PrivacyGuard is not enabled 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Fri Jul 25 18:34:51 CDT 2025 DATA RampManager getAllRampsState took 1ms 
+Fri Jul 25 18:34:51 CDT 2025 DATA z8.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt5Core.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libyuv-decoder.so in APK 
+Fri Jul 25 18:34:51 CDT 2025 W OneDriveCore Library libcrypto.so not found in APK 
+Fri Jul 25 18:34:51 CDT 2025 W OneDriveCore Library libssl.so not found in APK 
+Fri Jul 25 18:34:52 CDT 2025 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Fri Jul 25 18:34:52 CDT 2025 W OneDriveCore Library libQt5Network.so not found in APK 
+Fri Jul 25 18:34:52 CDT 2025 W OneDriveCore Library libQt5Sql.so not found in APK 
+Fri Jul 25 18:34:52 CDT 2025 W OneDriveCore Library libQt5Xml.so not found in APK 
+Fri Jul 25 18:34:52 CDT 2025 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:21) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:123) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:120) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:25) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using qt with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:21) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /data/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3972) 
+Fri Jul 25 18:34:52 CDT 2025 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  228 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4628) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:153) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 950272 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /data/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:39) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:146) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Fri Jul 25 18:34:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:491) 
+Fri Jul 25 18:34:53 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication onMAMCreate - Importance: 300 [BACKGROUND INIT] 
+Fri Jul 25 18:34:53 CDT 2025 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Fri Jul 25 18:34:53 CDT 2025 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Fri Jul 25 18:34:53 CDT 2025 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Fri Jul 25 18:34:53 CDT 2025 DATA z8.f InitOneAuthPreReqs 
+Fri Jul 25 18:34:53 CDT 2025 DATA RampManager getAllRampsState took 3ms 
+Fri Jul 25 18:34:53 CDT 2025 DATA RampManager getAllRampsState took 0ms 
+Fri Jul 25 18:34:53 CDT 2025 DATA PartnerAttributionProvider Provided account isn't a personal account 
+Fri Jul 25 18:36:41 CDT 2025 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Fri Jul 25 18:36:41 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDSUtils PrivacyGuard is not enabled 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Fri Jul 25 18:36:41 CDT 2025 DATA RampManager getAllRampsState took 1ms 
+Fri Jul 25 18:36:41 CDT 2025 DATA z8.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt5Core.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libyuv-decoder.so in APK 
+Fri Jul 25 18:36:41 CDT 2025 W OneDriveCore Library libcrypto.so not found in APK 
+Fri Jul 25 18:36:41 CDT 2025 W OneDriveCore Library libssl.so not found in APK 
+Fri Jul 25 18:36:41 CDT 2025 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Fri Jul 25 18:36:41 CDT 2025 W OneDriveCore Library libQt5Network.so not found in APK 
+Fri Jul 25 18:36:41 CDT 2025 W OneDriveCore Library libQt5Sql.so not found in APK 
+Fri Jul 25 18:36:41 CDT 2025 W OneDriveCore Library libQt5Xml.so not found in APK 
+Fri Jul 25 18:36:41 CDT 2025 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Fri Jul 25 18:36:41 CDT 2025 DATA com.microsoft.odsp.p Ramps updated from ECS 
+Fri Jul 25 18:36:41 CDT 2025 DATA com.microsoft.odsp.p Removing cached ramps not found on the backend 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:21) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:123) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:120) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:25) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using qt with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:21) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /data/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3972) 
+Fri Jul 25 18:36:41 CDT 2025 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  228 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4628) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:153) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 950272 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /data/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:39) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:146) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Fri Jul 25 18:36:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:491) 
+Fri Jul 25 18:36:41 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication onMAMCreate - Importance: 125 [BACKGROUND INIT] 
+Fri Jul 25 18:36:41 CDT 2025 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Fri Jul 25 18:36:41 CDT 2025 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Fri Jul 25 18:38:11 CDT 2025 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Fri Jul 25 18:38:11 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Fri Jul 25 18:38:11 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:38:11 CDT 2025 DATA OneDSUtils PrivacyGuard is not enabled 
+Fri Jul 25 18:38:11 CDT 2025 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Fri Jul 25 18:38:11 CDT 2025 DATA RampManager getAllRampsState took 2ms 
+Fri Jul 25 18:38:11 CDT 2025 DATA z8.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Fri Jul 25 18:38:11 CDT 2025 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Fri Jul 25 18:38:11 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt5Core.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libyuv-decoder.so in APK 
+Fri Jul 25 18:38:12 CDT 2025 W OneDriveCore Library libcrypto.so not found in APK 
+Fri Jul 25 18:38:12 CDT 2025 W OneDriveCore Library libssl.so not found in APK 
+Fri Jul 25 18:38:12 CDT 2025 DATA com.microsoft.odsp.p Ramps updated from ECS 
+Fri Jul 25 18:38:12 CDT 2025 DATA com.microsoft.odsp.p Removing cached ramps not found on the backend 
+Fri Jul 25 18:38:12 CDT 2025 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Fri Jul 25 18:38:12 CDT 2025 W OneDriveCore Library libQt5Network.so not found in APK 
+Fri Jul 25 18:38:12 CDT 2025 W OneDriveCore Library libQt5Sql.so not found in APK 
+Fri Jul 25 18:38:12 CDT 2025 W OneDriveCore Library libQt5Xml.so not found in APK 
+Fri Jul 25 18:38:12 CDT 2025 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:21) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:123) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:120) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:25) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using qt with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:21) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /data/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3972) 
+Fri Jul 25 18:38:12 CDT 2025 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  228 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4628) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:153) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 950272 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /data/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:39) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:146) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Fri Jul 25 18:38:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:491) 
+Fri Jul 25 18:38:13 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication onMAMCreate - Importance: 400 [BACKGROUND INIT] 
+Fri Jul 25 18:38:13 CDT 2025 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Fri Jul 25 18:38:13 CDT 2025 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Fri Jul 25 18:38:16 CDT 2025 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Fri Jul 25 18:38:16 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDSUtils PrivacyGuard is not enabled 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Fri Jul 25 18:38:16 CDT 2025 DATA RampManager getAllRampsState took 2ms 
+Fri Jul 25 18:38:16 CDT 2025 DATA z8.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt5Core.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libyuv-decoder.so in APK 
+Fri Jul 25 18:38:16 CDT 2025 DATA com.microsoft.odsp.p Ramps updated from ECS 
+Fri Jul 25 18:38:16 CDT 2025 DATA com.microsoft.odsp.p Removing cached ramps not found on the backend 
+Fri Jul 25 18:38:16 CDT 2025 W OneDriveCore Library libcrypto.so not found in APK 
+Fri Jul 25 18:38:16 CDT 2025 W OneDriveCore Library libssl.so not found in APK 
+Fri Jul 25 18:38:16 CDT 2025 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Fri Jul 25 18:38:16 CDT 2025 W OneDriveCore Library libQt5Network.so not found in APK 
+Fri Jul 25 18:38:16 CDT 2025 W OneDriveCore Library libQt5Sql.so not found in APK 
+Fri Jul 25 18:38:16 CDT 2025 W OneDriveCore Library libQt5Xml.so not found in APK 
+Fri Jul 25 18:38:16 CDT 2025 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:21) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:123) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:120) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:25) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using qt with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:21) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /data/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3972) 
+Fri Jul 25 18:38:17 CDT 2025 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  228 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4628) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:153) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 950272 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /data/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:39) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:146) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Fri Jul 25 18:38:17 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:491) 
+Fri Jul 25 18:38:17 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication onMAMCreate - Importance: 400 [BACKGROUND INIT] 
+Fri Jul 25 18:38:17 CDT 2025 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Fri Jul 25 18:38:17 CDT 2025 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Fri Jul 25 18:41:00 CDT 2025 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Fri Jul 25 18:41:00 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDSUtils PrivacyGuard is not enabled 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Fri Jul 25 18:41:00 CDT 2025 DATA RampManager getAllRampsState took 2ms 
+Fri Jul 25 18:41:00 CDT 2025 DATA z8.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt5Core.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libyuv-decoder.so in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA com.microsoft.odsp.p Ramps updated from ECS 
+Fri Jul 25 18:41:00 CDT 2025 W OneDriveCore Library libcrypto.so not found in APK 
+Fri Jul 25 18:41:00 CDT 2025 W OneDriveCore Library libssl.so not found in APK 
+Fri Jul 25 18:41:00 CDT 2025 DATA com.microsoft.odsp.p Removing cached ramps not found on the backend 
+Fri Jul 25 18:41:00 CDT 2025 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Fri Jul 25 18:41:00 CDT 2025 W OneDriveCore Library libQt5Network.so not found in APK 
+Fri Jul 25 18:41:00 CDT 2025 W OneDriveCore Library libQt5Sql.so not found in APK 
+Fri Jul 25 18:41:00 CDT 2025 W OneDriveCore Library libQt5Xml.so not found in APK 
+Fri Jul 25 18:41:00 CDT 2025 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:21) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:123) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:120) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:25) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using qt with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:21) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /data/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3972) 
+Fri Jul 25 18:41:01 CDT 2025 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  228 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4628) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:153) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 950272 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /data/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:39) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:146) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Fri Jul 25 18:41:01 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:491) 
+Fri Jul 25 18:41:01 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication onMAMCreate - Importance: 400 [BACKGROUND INIT] 
+Fri Jul 25 18:41:01 CDT 2025 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Fri Jul 25 18:41:01 CDT 2025 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Fri Jul 25 18:45:24 CDT 2025 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Fri Jul 25 18:45:24 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDSUtils PrivacyGuard is not enabled 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Fri Jul 25 18:45:24 CDT 2025 DATA RampManager getAllRampsState took 2ms 
+Fri Jul 25 18:45:24 CDT 2025 DATA z8.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt5Core.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libyuv-decoder.so in APK 
+Fri Jul 25 18:45:24 CDT 2025 DATA com.microsoft.odsp.p Ramps updated from ECS 
+Fri Jul 25 18:45:24 CDT 2025 DATA com.microsoft.odsp.p Removing cached ramps not found on the backend 
+Fri Jul 25 18:45:24 CDT 2025 W OneDriveCore Library libcrypto.so not found in APK 
+Fri Jul 25 18:45:24 CDT 2025 W OneDriveCore Library libssl.so not found in APK 
+Fri Jul 25 18:45:24 CDT 2025 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Fri Jul 25 18:45:24 CDT 2025 W OneDriveCore Library libQt5Network.so not found in APK 
+Fri Jul 25 18:45:24 CDT 2025 W OneDriveCore Library libQt5Sql.so not found in APK 
+Fri Jul 25 18:45:24 CDT 2025 W OneDriveCore Library libQt5Xml.so not found in APK 
+Fri Jul 25 18:45:24 CDT 2025 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:21) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:123) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:120) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:25) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using qt with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:21) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /data/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3972) 
+Fri Jul 25 18:45:25 CDT 2025 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  228 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4628) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:153) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 950272 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /data/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:39) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:146) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Fri Jul 25 18:45:25 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:491) 
+Fri Jul 25 18:45:25 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication onMAMCreate - Importance: 300 [BACKGROUND INIT] 
+Fri Jul 25 18:45:25 CDT 2025 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Fri Jul 25 18:45:25 CDT 2025 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Fri Jul 25 18:46:32 CDT 2025 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Fri Jul 25 18:46:32 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDSUtils PrivacyGuard is not enabled 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Fri Jul 25 18:46:32 CDT 2025 DATA RampManager getAllRampsState took 2ms 
+Fri Jul 25 18:46:32 CDT 2025 DATA z8.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt5Core.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Fri Jul 25 18:46:32 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libyuv-decoder.so in APK 
+Fri Jul 25 18:46:33 CDT 2025 DATA com.microsoft.odsp.p Ramps updated from ECS 
+Fri Jul 25 18:46:33 CDT 2025 DATA com.microsoft.odsp.p Removing cached ramps not found on the backend 
+Fri Jul 25 18:46:33 CDT 2025 W OneDriveCore Library libcrypto.so not found in APK 
+Fri Jul 25 18:46:33 CDT 2025 W OneDriveCore Library libssl.so not found in APK 
+Fri Jul 25 18:46:33 CDT 2025 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Fri Jul 25 18:46:33 CDT 2025 W OneDriveCore Library libQt5Network.so not found in APK 
+Fri Jul 25 18:46:33 CDT 2025 W OneDriveCore Library libQt5Sql.so not found in APK 
+Fri Jul 25 18:46:33 CDT 2025 W OneDriveCore Library libQt5Xml.so not found in APK 
+Fri Jul 25 18:46:33 CDT 2025 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:21) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:123) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:120) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:25) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using qt with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:21) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /data/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3972) 
+Fri Jul 25 18:46:33 CDT 2025 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  228 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4628) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:153) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 950272 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /data/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:39) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:146) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Fri Jul 25 18:46:33 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:491) 
+Fri Jul 25 18:46:34 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication onMAMCreate - Importance: 300 [BACKGROUND INIT] 
+Fri Jul 25 18:46:34 CDT 2025 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Fri Jul 25 18:46:34 CDT 2025 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Sat Jul 26 01:16:38 CDT 2025 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Sat Jul 26 01:16:38 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Sat Jul 26 01:16:38 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Sat Jul 26 01:16:38 CDT 2025 DATA OneDSUtils PrivacyGuard is not enabled 
+Sat Jul 26 01:16:38 CDT 2025 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Sat Jul 26 01:16:39 CDT 2025 DATA RampManager getAllRampsState took 16ms 
+Sat Jul 26 01:16:39 CDT 2025 DATA z8.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt5Core.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libyuv-decoder.so in APK 
+Sat Jul 26 01:16:39 CDT 2025 DATA com.microsoft.odsp.p Ramps updated from ECS 
+Sat Jul 26 01:16:39 CDT 2025 DATA com.microsoft.odsp.p Removing cached ramps not found on the backend 
+Sat Jul 26 01:16:40 CDT 2025 W OneDriveCore Library libcrypto.so not found in APK 
+Sat Jul 26 01:16:40 CDT 2025 W OneDriveCore Library libssl.so not found in APK 
+Sat Jul 26 01:16:40 CDT 2025 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Sat Jul 26 01:16:40 CDT 2025 W OneDriveCore Library libQt5Network.so not found in APK 
+Sat Jul 26 01:16:40 CDT 2025 W OneDriveCore Library libQt5Sql.so not found in APK 
+Sat Jul 26 01:16:40 CDT 2025 W OneDriveCore Library libQt5Xml.so not found in APK 
+Sat Jul 26 01:16:40 CDT 2025 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Sat Jul 26 01:16:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:21) 
+Sat Jul 26 01:16:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:123) 
+Sat Jul 26 01:16:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:120) 
+Sat Jul 26 01:16:41 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:25) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using qt with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:21) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3972) 
+Sat Jul 26 01:16:42 CDT 2025 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  228 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4628) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:153) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 950272 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:39) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:146) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Sat Jul 26 01:16:42 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:491) 
+Sat Jul 26 01:16:44 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication onMAMCreate - Importance: 300 [BACKGROUND INIT] 
+Sat Jul 26 01:16:44 CDT 2025 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Sat Jul 26 01:16:44 CDT 2025 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Sat Jul 26 01:16:44 CDT 2025 DATA RampManager getAllRampsState took 2ms 
+Sat Jul 26 01:16:44 CDT 2025 DATA RampManager getAllRampsState took 1ms 
+Sat Jul 26 01:16:44 CDT 2025 DATA PartnerAttributionProvider Provided account isn't a personal account 
+Sat Jul 26 01:17:10 CDT 2025 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Sat Jul 26 01:17:11 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Sat Jul 26 01:17:11 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Sat Jul 26 01:17:11 CDT 2025 DATA OneDSUtils PrivacyGuard is not enabled 
+Sat Jul 26 01:17:11 CDT 2025 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Sat Jul 26 01:17:11 CDT 2025 DATA RampManager getAllRampsState took 2ms 
+Sat Jul 26 01:17:11 CDT 2025 DATA com.microsoft.odsp.p Ramps updated from ECS 
+Sat Jul 26 01:17:11 CDT 2025 DATA com.microsoft.odsp.p Removing cached ramps not found on the backend 
+Sat Jul 26 01:17:12 CDT 2025 DATA z8.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt5Core.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libyuv-decoder.so in APK 
+Sat Jul 26 01:17:12 CDT 2025 W OneDriveCore Library libcrypto.so not found in APK 
+Sat Jul 26 01:17:12 CDT 2025 W OneDriveCore Library libssl.so not found in APK 
+Sat Jul 26 01:17:12 CDT 2025 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Sat Jul 26 01:17:12 CDT 2025 W OneDriveCore Library libQt5Network.so not found in APK 
+Sat Jul 26 01:17:12 CDT 2025 W OneDriveCore Library libQt5Sql.so not found in APK 
+Sat Jul 26 01:17:12 CDT 2025 W OneDriveCore Library libQt5Xml.so not found in APK 
+Sat Jul 26 01:17:12 CDT 2025 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Sat Jul 26 01:17:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:21) 
+Sat Jul 26 01:17:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:123) 
+Sat Jul 26 01:17:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:120) 
+Sat Jul 26 01:17:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Sat Jul 26 01:17:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:25) 
+Sat Jul 26 01:17:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using qt with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:21) 
+Sat Jul 26 01:17:12 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3972) 
+Sat Jul 26 01:17:13 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  228 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4628) 
+Sat Jul 26 01:17:13 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:153) 
+Sat Jul 26 01:17:13 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 950272 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Sat Jul 26 01:17:13 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Sat Jul 26 01:17:13 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Sat Jul 26 01:17:13 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Sat Jul 26 01:17:13 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Sat Jul 26 01:17:13 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:39) 
+Sat Jul 26 01:17:13 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Sat Jul 26 01:17:13 CDT 2025 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Sat Jul 26 01:17:13 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Sat Jul 26 01:17:13 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:146) 
+Sat Jul 26 01:17:13 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Sat Jul 26 01:17:13 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Sat Jul 26 01:17:13 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:491) 
+Sat Jul 26 01:17:14 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication onMAMCreate - Importance: 230 [BACKGROUND INIT] 
+Sat Jul 26 01:17:14 CDT 2025 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Sat Jul 26 01:17:14 CDT 2025 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Sat Jul 26 01:19:20 CDT 2025 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Sat Jul 26 01:19:21 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDSUtils PrivacyGuard is not enabled 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Sat Jul 26 01:19:21 CDT 2025 DATA RampManager getAllRampsState took 3ms 
+Sat Jul 26 01:19:21 CDT 2025 DATA z8.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt5Core.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libyuv-decoder.so in APK 
+Sat Jul 26 01:19:21 CDT 2025 DATA com.microsoft.odsp.p Ramps updated from ECS 
+Sat Jul 26 01:19:21 CDT 2025 DATA com.microsoft.odsp.p Removing cached ramps not found on the backend 
+Sat Jul 26 01:19:21 CDT 2025 W OneDriveCore Library libcrypto.so not found in APK 
+Sat Jul 26 01:19:21 CDT 2025 W OneDriveCore Library libssl.so not found in APK 
+Sat Jul 26 01:19:21 CDT 2025 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Sat Jul 26 01:19:21 CDT 2025 W OneDriveCore Library libQt5Network.so not found in APK 
+Sat Jul 26 01:19:21 CDT 2025 W OneDriveCore Library libQt5Sql.so not found in APK 
+Sat Jul 26 01:19:21 CDT 2025 W OneDriveCore Library libQt5Xml.so not found in APK 
+Sat Jul 26 01:19:21 CDT 2025 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:21) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:123) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:120) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:25) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using qt with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:21) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3972) 
+Sat Jul 26 01:19:23 CDT 2025 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  228 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4628) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:153) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 950272 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:39) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:146) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Sat Jul 26 01:19:23 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:491) 
+Sat Jul 26 01:19:24 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication onMAMCreate - Importance: 230 [BACKGROUND INIT] 
+Sat Jul 26 01:19:24 CDT 2025 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Sat Jul 26 01:19:24 CDT 2025 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Sat Jul 26 01:19:24 CDT 2025 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Sat Jul 26 01:19:24 CDT 2025 DATA z8.f InitOneAuthPreReqs 
+Sat Jul 26 01:19:24 CDT 2025 DATA RampManager getAllRampsState took 3ms 
+Sat Jul 26 01:19:24 CDT 2025 DATA RampManager getAllRampsState took 1ms 
+Sat Jul 26 01:19:24 CDT 2025 DATA PartnerAttributionProvider Provided account isn't a personal account 
+Sat Jul 26 01:19:24 CDT 2025 DATA AppBootRecorder installedPackages: {com.microsoft.windowsintune.companyportal=NotInstalled, com.azure.authenticator=6.2507.4749}  
+Sat Jul 26 01:19:24 CDT 2025 I AppBootRecorder startWaitingForActivity in foreground, started ColdActivity 
+Sat Jul 26 01:19:24 CDT 2025 DATA LocalMojSystemBroadcastsReceiver onReceive: android.intent.action.BOOT_COMPLETED 
+Sat Jul 26 01:19:24 CDT 2025 DATA Ib.d Build model matches: false 
+Sat Jul 26 01:19:24 CDT 2025 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sat Jul 26 01:19:24 CDT 2025 DATA z8.f migrateADALCacheKey was skipped because it has already been performed 99561292ms ago 
+Sat Jul 26 01:19:24 CDT 2025 DATA z8.f Oneauth MSA ramp state is set and locked to true for remainder of this session 
+Sat Jul 26 01:19:24 CDT 2025 DATA z8.f Initializing OneAuth TSL 
+Sat Jul 26 01:19:24 CDT 2025 DATA OneAuthMigration Starting first discoverAccounts call to find accounts and make them known to OneAuth's stack 
+Sat Jul 26 01:19:24 CDT 2025 DATA z8.f OneAuth telemetry audienceType: Production 
+Sat Jul 26 01:19:24 CDT 2025 DATA RampManager getAllRampsState took 8ms 
+Sat Jul 26 01:19:24 CDT 2025 DATA z8.f Attempting to configure OneAuth with flight ANDROID_BROKER_FOR_MSA to enable broker 
+Sat Jul 26 01:19:24 CDT 2025 DATA z8.f Attempting to configure OneAuth with flight REFRESH_TOKEN_ALLOWED_WITH_BROKER to enable client as fallback from broker refreshes 
+Sat Jul 26 01:19:24 CDT 2025 DATA z8.f OneAuth configuration with MSA Broker ramp: true 
+Sat Jul 26 01:19:24 CDT 2025 DATA z8.f OneAuth redirectURI : msauth://com.microsoft.skydrive/gSoqzhbCjkyvI%2Fl7kC7IdG7KbPU%3D 
+Sat Jul 26 01:19:24 CDT 2025 DATA z8.f OneAuth setFlightValues succeeded 
+Sat Jul 26 01:19:25 CDT 2025 DATA z8.f OneAuth configured without errors 
+Sat Jul 26 01:19:25 CDT 2025 DATA z8.f Configuration of OneAuth (not including migration, etc.) took 225 ms 
+Sat Jul 26 01:19:25 CDT 2025 DATA com.microsoft.skydrive.updateuserinfo.UpdateUserInfoJob Enqueueing UpdateUserInfoJob 
+Sat Jul 26 01:19:25 CDT 2025 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sat Jul 26 01:19:25 CDT 2025 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Sat Jul 26 01:19:25 CDT 2025 E SamsungAuthUtils Could not get MigrationState response - Unknown state java.lang.IllegalArgumentException: Unknown authority com.samsung.android.scloud.app.ui.datamigrator.linkcontext 
+Sat Jul 26 01:19:25 CDT 2025 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sat Jul 26 01:19:25 CDT 2025 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Sat Jul 26 01:19:25 CDT 2025 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Sat Jul 26 01:19:25 CDT 2025 DATA MeridianActivity isMeridianEnabled: false, isSamsungDevice: false, mockSamsungPreInstalled: false 
+Sat Jul 26 01:19:25 CDT 2025 DATA MeridianUpsellJob isEnabled: false, timesShown: 0, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Sat Jul 26 01:19:25 CDT 2025 DATA MeridianActivity isMeridianEnabled: false, isSamsungDevice: false, mockSamsungPreInstalled: false 
+Sat Jul 26 01:19:25 CDT 2025 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Sat Jul 26 01:19:25 CDT 2025 DATA com.microsoft.authorization.cloudaccounts.c Read ServiceConnections list from preferences: 0 
+Sat Jul 26 01:19:25 CDT 2025 DATA com.microsoft.authorization.cloudaccounts.c Read hidden cloud account IDs list from preferences: 0 
+Sat Jul 26 01:19:25 CDT 2025 I G8.i cleanUpAccountsCache 
+Sat Jul 26 01:19:25 CDT 2025 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sat Jul 26 01:19:25 CDT 2025 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Sat Jul 26 01:19:25 CDT 2025 E SamsungAccountManagerUtils Package name not found 
+Sat Jul 26 01:19:25 CDT 2025 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sat Jul 26 01:19:25 CDT 2025 DATA NotificationChannelController initNotificationChannels 
+Sat Jul 26 01:19:25 CDT 2025 DATA FlorenceZeroQuerySearchExperience initialize - trigger experience check 
+Sat Jul 26 01:19:25 CDT 2025 DATA PIPLFREActivity setBroadcastReceiverEnabledSettingBasedOnPIPLStatus: 1, cls: com.microsoft.skydrive.localmoj.notifications.LocalMojSystemBroadcastsReceiver 
+Sat Jul 26 01:19:25 CDT 2025 DATA PIPLFREActivity setBroadcastReceiverEnabledSettingBasedOnPIPLStatus: 1, cls: com.microsoft.skydrive.receiver.BootAtStartupReceiver 
+Sat Jul 26 01:19:25 CDT 2025 DATA PIPLFREActivity setBroadcastReceiverEnabledSettingBasedOnPIPLStatus: 1, cls: com.microsoft.skydrive.upload.SdCardMountReceiver 
+Sat Jul 26 01:19:25 CDT 2025 I AppBootRecorder isAppInForeground for packageName: com.microsoft.skydrive 
+Sat Jul 26 01:19:25 CDT 2025 I AppBootRecorder isAppInForeground found processName: com.microsoft.skydrive 
+Sat Jul 26 01:19:25 CDT 2025 I AppBootRecorder importance: 400 
+Sat Jul 26 01:19:25 CDT 2025 I AppBootRecorder importanceReasonCode: 0 
+Sat Jul 26 01:19:25 CDT 2025 I AppBootRecorder importanceReasonPid: 0 
+Sat Jul 26 01:19:25 CDT 2025 I AppBootRecorder importanceReasonComponent: null 
+Sat Jul 26 01:19:25 CDT 2025 I AppBootRecorder AppBootDetectForeground found in background 
+Sat Jul 26 01:19:25 CDT 2025 I AppBootRecorder startWaitingForWarmActivity in background, waiting for WarmActivity 
+Sat Jul 26 01:19:32 CDT 2025 DATA OneAuthNetworkTasks DiscoverAccounts returned with result0 and with accountnull 
+Sat Jul 26 01:19:32 CDT 2025 DATA OneAuthNetworkTasks DiscoverAccounts completed 
+Sat Jul 26 01:19:32 CDT 2025 DATA OneAuthMigration MSATokenImport was not performed because no MSA account needed to be migrated 
+Sat Jul 26 01:19:38 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1753510763 now: 1753510778 time to merge: 9 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/databaseidle.cpp:116) 
+Sat Jul 26 01:19:38 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Syncing local favorites with cloud (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/commands/favoritessyncmanager.cpp:52) 
+Sat Jul 26 01:19:38 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing one-time sync with the service via GetChanges requests (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/transport/onetimesyncmanager.cpp:25) 
+Sat Jul 26 01:19:50 CDT 2025 DATA BootAtStartupReceiver onReceive: android.intent.action.BOOT_COMPLETED 
+Sat Jul 26 01:19:50 CDT 2025 I BootAtStartupReceiver onReceive android.intent.action.BOOT_COMPLETED, resuming sync workers 
+Sat Jul 26 01:19:50 CDT 2025 DATA SyncServiceManager onStartJob-resume sync workers 
+Sat Jul 26 01:19:56 CDT 2025 DATA ManualUploadWorker starting worker with action com.microsoft.skydrive.fileloader.RESUME 
+Sat Jul 26 01:19:56 CDT 2025 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sat Jul 26 01:19:57 CDT 2025 DATA ManualUploadWorker starting worker with action com.microsoft.skydrive.fileloader.RESUME 
+Sat Jul 26 01:19:57 CDT 2025 DATA AsyncMoveWorker starting worker with action com.microsoft.skydrive.fileloader.RESUME 
+Sat Jul 26 01:19:57 CDT 2025 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sat Jul 26 01:32:51 CDT 2025 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Sat Jul 26 01:32:51 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDSUtils PrivacyGuard is not enabled 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Sat Jul 26 01:32:51 CDT 2025 DATA RampManager getAllRampsState took 3ms 
+Sat Jul 26 01:32:51 CDT 2025 DATA com.microsoft.odsp.p Ramps updated from ECS 
+Sat Jul 26 01:32:51 CDT 2025 DATA com.microsoft.odsp.p Removing cached ramps not found on the backend 
+Sat Jul 26 01:32:51 CDT 2025 DATA z8.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDSUtils OneDS mitigation checks passed 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libQt5Core.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 DATA OneDriveCore Found library lib/arm64-v8a/libyuv-decoder.so in APK 
+Sat Jul 26 01:32:51 CDT 2025 W OneDriveCore Library libcrypto.so not found in APK 
+Sat Jul 26 01:32:51 CDT 2025 W OneDriveCore Library libssl.so not found in APK 
+Sat Jul 26 01:32:52 CDT 2025 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Sat Jul 26 01:32:52 CDT 2025 W OneDriveCore Library libQt5Network.so not found in APK 
+Sat Jul 26 01:32:52 CDT 2025 W OneDriveCore Library libQt5Sql.so not found in APK 
+Sat Jul 26 01:32:52 CDT 2025 W OneDriveCore Library libQt5Xml.so not found in APK 
+Sat Jul 26 01:32:52 CDT 2025 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:21) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:123) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:120) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:25) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using qt with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:21) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3972) 
+Sat Jul 26 01:32:52 CDT 2025 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  228 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4628) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:153) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 950272 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 26112 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:158) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /mnt/expand/019736e5-ac5e-456a-9425-5fa6b2a16404/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:39) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:146) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Sat Jul 26 01:32:52 CDT 2025 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:491) 
+Sat Jul 26 01:32:53 CDT 2025 DATA com.microsoft.skydrive.SkyDriveApplication onMAMCreate - Importance: 125 [BACKGROUND INIT] 
+Sat Jul 26 01:32:53 CDT 2025 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Sat Jul 26 01:32:53 CDT 2025 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
